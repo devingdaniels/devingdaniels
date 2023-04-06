@@ -7,7 +7,7 @@ I am a dedicated and detail-oriented software developer with a passion for codin
 ### My Skills:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html5,git,github,react,c++,javascript,c,c++" />
+    <img src="https://skillicons.dev/icons?i=css,html,git,github,react,javascript,c,c++" />
   </a>
 </p>
 
