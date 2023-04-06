@@ -18,4 +18,4 @@ See repos
 ### Let's Connect
 Thank you for taking the time to read my README.md. If you're interested in working with me or want to learn more about my skills and projects, please don't hesitate to contact me. Let's create something amazing together!
 
-LinkedLn: <a href="https://www.linkedin.com/in/devingdaniels/" target=_blank > 
+LinkedLn: <a href="https://www.linkedin.com/in/devingdaniels/" target=_blank </a>
