@@ -13,7 +13,7 @@ I am a dedicated and detail-oriented software developer with a passion for codin
 
 
 ## My Projects
-See repos
+See my pinned repos below this readme or feel free to browse through my other repos!
 
 ## Let's Connect
 Thank you for taking the time to read my README.md. If you're interested in working with me or want to learn more about my skills and projects, please don't hesitate to contact me. Let's create something amazing together!
