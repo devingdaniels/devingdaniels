@@ -13,13 +13,9 @@ I am a dedicated and detail-oriented software developer with a passion for codin
 
 
 ### My Projects
-Here are some of the projects that I have worked on:
-
-Project 1: This is a C++ program that simulates a bank account management system. Users can create and manage their accounts, make deposits and withdrawals, and view their transaction history.
-
-Project 2: This is a Javascript web application that helps users find the best deals on flights. Users can search for flights, compare prices, and book tickets.
-
-Project 3: This is a CSS and HTML website that showcases my portfolio and skills. It includes my resume, projects, and contact information.
+See repos
 
 ### Let's Connect
 Thank you for taking the time to read my README.md. If you're interested in working with me or want to learn more about my skills and projects, please don't hesitate to contact me. Let's create something amazing together!
+
+LinkedLn: https://www.linkedin.com/in/devingdaniels/
