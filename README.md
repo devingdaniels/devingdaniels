@@ -7,15 +7,7 @@ I am a dedicated and detail-oriented software developer with a passion for codin
 
 
 My Skills:
-C/C++: Writing optimized code for low-level programming, system software, and embedded systems
-CSS/HTML: Creating responsive and visually appealing websites
-Javascript: Building dynamic web applications and server-side scripts
-Jest: Writing comprehensive and reliable tests for Javascript code
-JSON: Transmitting and storing data in a lightweight format
-NPM: Managing dependencies in Node.js projects
-SQL: Manipulating and optimizing data in databases
-Typing: Writing clean and efficient code quickly and accurately
-WebPack: Optimizing and packaging web applications for production
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 My Projects
 Here are some of the projects that I have worked on:
