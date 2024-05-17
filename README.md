@@ -11,7 +11,7 @@ I'm a dedicated software developer passionate about coding and building user-fri
 </p>
 
 ## Projects
-Currently devlopiong DuoWings, a fullstack web flashcard/language appication built on top of OpenAI, written with React/Node/TypeScript/MongDB. Feel free to explore my other pinned repositories below. 
+Currently developing DuoWings, a full-stack web flashcard/language application built on top of OpenAI, written with React/Node/TypeScript/MongoDB. Feel free to explore my other pinned repositories below.
 
 ## Connect with Me
 Thank you for visiting my GitHub profile. If you're interested in collaborating or learning more about my work, feel free to reach out. Let's create something amazing together!
