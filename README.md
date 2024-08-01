@@ -11,7 +11,9 @@
 Currently developing DuoWings, a full-stack web flashcard/language application built on top of OpenAI, written with React/Node/TypeScript/MongoDB. Feel free to explore my other pinned repositories below.
 
 ## Connect with Me
-<a href="https://www.devingdaniels.com" target="_blank"></a>
+Personal
+<a href="https://www.devingdaniels.com" target="_blank">Devin</a>
+Socials
 <a href="https://www.linkedin.com/in/devingdaniels/" target="_blank">LinkedIn</a>
 
 
