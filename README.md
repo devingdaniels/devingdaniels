@@ -1,8 +1,5 @@
 # Hi there 👋
 
-## About Me
-I'm a dedicated software developer passionate about coding and building user-friendly applications. With a strong background in various programming languages, frameworks, and libraries, I'm always eager to expand my knowledge and skills.
-
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
