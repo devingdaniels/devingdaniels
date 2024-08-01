@@ -8,7 +8,7 @@
 </p>
 
 ## Projects
-Currently developing DuoWings, a full-stack web flashcard/language application built on top of OpenAI, written with React/Node/TypeScript/MongoDB. Feel free to explore my other pinned repositories below.
+
 
 ## Connect with Me
 
