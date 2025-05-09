@@ -19,6 +19,6 @@
 [LinkedIn](https://www.linkedin.com/in/devingdaniels/)
 
 **OSU Capstone:**  
-[Devin's Website]([https://www.devingdaniels](https://github.com/devingdaniels/vocabulous))
+[Repo](https://github.com/devingdaniels/vocabulous)
 
 
