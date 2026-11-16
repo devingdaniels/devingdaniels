@@ -12,13 +12,7 @@
 
 ## Connect with Me
 
-**Personal:**  
-[Devin's Website](https://www.devingdaniels.com)
-
 **Socials:**  
 [LinkedIn](https://www.linkedin.com/in/devingdaniels/)
-
-**OSU Capstone:**  
-[Repo](https://github.com/devingdaniels/vocabulous)
 
 
